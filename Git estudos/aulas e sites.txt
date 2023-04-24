@@ -2,4 +2,6 @@ https://www.youtube.com/watch?v=OuOb1_qADBQ aula 2 horas git
 
 https://www.youtube.com/watch?v=aINs3ouaoJk upar projeto para o github
 
+https://www.youtube.com/watch?v=vJt_K1bFUeA&list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw curso angular
+
 https://blog.betrybe.com/git/
